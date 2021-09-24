@@ -1,10 +1,9 @@
-- Hey there!
-- I am Aadi-Mone also known Adarsh A
-- I love Rendering and Desing in blender.
-- and I am a young developer in Html, CSS and Java!!
-- I don't have any Projects yet :( 
+<br>Hello,</br>
+<br>I am Adarsh I love to code in Html.</br>
+<br>In every concept I like the desing so I focous more on Desings :D</br>
 
-<!---
-Aadi-mone/Aadi-mone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+<br><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Aadi-mone&show_icons=true&theme=gotham" alt="Aadi-mone" />
+<br><p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadi-mone&theme=tokyonight&hide_border=true" />
+
+---
