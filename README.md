@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Alive. 
-
-<img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> 
+I'm Alive. <img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> 
 
 ---
 Stats:
