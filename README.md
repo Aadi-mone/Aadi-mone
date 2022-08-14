@@ -7,7 +7,8 @@ server homepage: https://samilogam.ml/
 
 my website: https://adarshofficial.ml/
 
-<img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> [![Discord Shield](https://discordapp.com/api/guilds/923189711479119902/widget.png?style=shield)](https://discord.gg/7u8N34QRXz)
+<img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> [![Discord Shield](https://discord.com/api/guilds/923189711479119902/widget.json)](https://discord.gg/7u8N34QRXz)
+
 
 
 ---
