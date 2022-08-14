@@ -7,6 +7,8 @@ server homepage: https://samilogam.ml/
 
 my website: https://adarshofficial.ml/
 
+<img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> 
+
 
 ---
 ![](httpstps://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aadi-mone&theme=nord_dark)
@@ -16,4 +18,4 @@ my website: https://adarshofficial.ml/
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aadi-mone&theme=nord_dark)
 
 ---
-<img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> 
+
