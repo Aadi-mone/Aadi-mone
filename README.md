@@ -2,7 +2,7 @@
 
 I'm Alive. 
 
-check out my minecraft server: slogam.us.to
+check out my minecraft server: **slogam.us.to**
 server homepage: https://samilogam.ml/ 
 
 my website: https://adarshofficial.ml/
