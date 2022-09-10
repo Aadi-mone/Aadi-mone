@@ -9,6 +9,8 @@ my website: https://adarshofficial.ml/
 
 <img src="https://komarev.com/ghpvc/?username=aadi-mone&label=Profile%20views&color=0e75b6&style=flat" alt="those people are cool" /> [![Discord Shield](https://discord.com/api/guilds/923189711479119902/widget.png)](https://discord.gg/7u8N34QRXz)
 
+[url=https://minecraftservers.org/server/638277][img]https://status.minecraftservers.org/classic/638277.png[/img][/url]
+
 
 
 ---
