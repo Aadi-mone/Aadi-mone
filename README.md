@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<br>
 I'm Sami
 <br>I run a Minecraft server: slogam.us.to
 <br>server homepage: https://samilogam.ml/ 
