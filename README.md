@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I'm Alive. 
+I'm Sami
 
-check out my minecraft server: **slogam.us.to**
-server homepage: https://samilogam.ml/ 
+<br>I run a Minecraft server: slogam.us.to
+<br>server homepage: https://samilogam.ml/ 
 
 my website: https://adarshofficial.ml/
 
